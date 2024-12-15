@@ -1,10 +1,10 @@
 # UNICEF_Data_Analysis
 Analysis of mobility data during COVID-19 to evaluate social distancing policy impacts
 
-##Overview of the Project
+## Overview of the Project
 In order to evaluate the effects of social distancing and mobility reduction measures in a city, this project examines aggregated mobility data gathered during the COVID-19 crisis. The analysis examines various locations, focusses on how mobility patterns have changed over time, and pinpoints vulnerable places with minimal mobility declines.
 
-##The dataset
+## The dataset
 Three CSV files per day for a week make up the dataset, which represents mobility data at three different time intervals: 
 From 0:00 to 8:00**, from 8:00 to 16:00**, and from 16:00 to 0:00**
 
